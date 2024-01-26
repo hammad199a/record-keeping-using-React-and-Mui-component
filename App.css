@@ -1,0 +1,16 @@
+.design{
+  text-align: center;
+  background-color: black;
+  color: wheat;
+  margin-top: 0%;
+  height: 60px;
+}  
+.fields{
+  display: flex;
+  justify-content: center;
+}
+.h{
+  margin-top: 15px;
+  
+  
+}
